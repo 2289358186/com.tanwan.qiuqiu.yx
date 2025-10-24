@@ -1,7 +1,5 @@
 # 球球英雄、球球竞技、玩个球 辅助工具
 > 全自动 AI 玩游戏，比按键精灵更灵活！独特的游戏算法，自动创建球球、升级球球、合并球球等。
-- Mr Runic Email：demo2013@vip.qq.com
-- 教程视频：https://www.bilibili.com/video/bv1nh411Z7cU
 
 ## 使用说明
 > 该项目仅供学习参考！
